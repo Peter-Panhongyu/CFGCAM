@@ -17,9 +17,9 @@ Precompiled packages for stable releases are available for Windows, macOS and Li
 ## Operating Instructions
 There is a detailed document for operation instructions available under ./操作手册/缓进磨编程软件操作手册.
 ## Example
-* **Project file**There is a project example file of CFGCAM available under ./CFGProject/CFGProject106P10_1.0.0522.cfgproject directory.
-* **Workpiece file**There is a workpiece example file of CFGCAM available under ./model/model.stp directory.
-* **Dresser file**There is a dresser example file of CFGCAM available under ./dresserdxf/dresserdxf.dxf directory.
+* **Project file** There is a project example file of CFGCAM available under ./CFGProject/CFGProject106P10_1.0.0522.cfgproject directory.
+* **Workpiece file** There is a workpiece example file of CFGCAM available under ./model/model.stp directory.
+* **Dresser file** There is a dresser example file of CFGCAM available under ./dresserdxf/dresserdxf.dxf directory.
 
 
 ## Contact
